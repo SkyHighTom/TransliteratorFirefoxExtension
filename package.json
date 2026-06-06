@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "franc": "^6.2.0",
+    "hangul-romanization": "^1.0.1",
+    "pinyin": "^4.0.0",
+    "pinyin-pro": "^3.28.1",
+    "transliteration": "^2.6.1",
+    "wanakana": "^5.3.1"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.0"
+  }
+}
